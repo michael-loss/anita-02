@@ -30,6 +30,7 @@ jsonschema
 jsonschema-specifications
 langchain
 langsmith
+langchain_community
 markdown-it-py
 MarkupSafe
 marshmallow
@@ -56,6 +57,7 @@ pytz
 PyYAML
 referencing
 requests
+requests_aws4auth
 rich
 rpds-py
 rsa

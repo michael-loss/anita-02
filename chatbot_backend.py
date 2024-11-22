@@ -416,7 +416,7 @@ def main():
         # Display the image at the top of the left panel
         col1, col2 = st.columns([0.2, 0.8])  # Adjust the column width to position items side by side
         with col1:
-            st.image("AnitaMDorr.jpg", width=100)  # Adjust width as needed
+            st.image("AnitaMDorr.jpg", width=200)  # Adjust width as needed
         with col2:
             st.title("Hello! I'm ANITA")
 
